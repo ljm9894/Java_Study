@@ -34,4 +34,4 @@ for(int i=0;i<myArray.length;i++){
 이 예제는 ```for``` 루프를 사용해서 모든 요소를 반복하고 ```println```메소드를 사용해서
 각요소를 출력합니다. ```length```속성을 사용해서 배열의 크기를 가져올 수 있습니다.
 
-![배열코드_2023_04_12](https://github.com/ljm9894/Java_Study/blob/master/src/kr/hs/dgsw/java/Array/ArrayStudy.java)
+[배열코드_2023_04_12](https://github.com/ljm9894/Java_Study/blob/master/src/kr/hs/dgsw/java/Array/ArrayStudy.java)
