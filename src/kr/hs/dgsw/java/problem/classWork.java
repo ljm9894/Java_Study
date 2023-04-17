@@ -65,7 +65,7 @@ public class classWork {
 
     }
 
-    void factorial(){
+    void factorial(){ //팩토리얼 코드
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         scanner.close();
